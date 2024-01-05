@@ -1,7 +1,8 @@
 repo_name: mucyoalexaxel/fullstack-roadmap-series
 report_id: 60ab3deb3a526a9d7d4fe7a2f876d3b2
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-27T13:52:06+00:00'
+timestamp: '2024-01-05T08:32:46+00:00'
 requested_by: zachgoll
 provider: github
 branch: main
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/mucyoalexaxel/fullstack-roadmap-series
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/mucyoalexaxel/fullstack-roadmap-series
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -34,6 +37,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/mucyoalexaxel/fullstack-roadmap-series
   detection_source: Repo Metadata
 - name: HTML
   description: Hypertext Markup Language for creating web pages.
@@ -41,6 +45,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/mucyoalexaxel/fullstack-roadmap-series/blob/main/code-challenges/lesson-10/solution/index.html
   detection_source: code-challenges/lesson-10/solution/index.html
   last_updated_by: zachgoll
   last_updated_on: 2021-03-29 13:59:48.000000000 Z
